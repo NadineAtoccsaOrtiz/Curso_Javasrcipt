@@ -1,2 +1,2 @@
-let nombre=4+9
+let nombre="🎈"
 console.log(nombre)
